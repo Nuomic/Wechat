@@ -1,2 +1,2 @@
 # Wechat
-微信公众号
+基于thinkPHP的微信公众号开发
