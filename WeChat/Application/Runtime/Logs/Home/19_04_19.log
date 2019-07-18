@@ -1,0 +1,1346 @@
+[ 2019-04-19T00:01:36+08:00 ] 117.178.226.48 /myWorkspace/WeChat/index.php/Home/Wechat/definedItem
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000255s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000466s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000540s ]
+
+[ 2019-04-19T00:01:37+08:00 ] 117.178.226.48 /myWorkspace/WeChat/index.php/Home/Wechat/definedItem
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000239s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000275s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000539s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000623s ]
+
+[ 2019-04-19T00:01:37+08:00 ] 117.178.226.48 /myWorkspace/WeChat/index.php/Home/Wechat/definedItem
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000193s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000254s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000504s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000576s ]
+
+[ 2019-04-19T00:01:40+08:00 ] 117.178.226.48 /myWorkspace/WeChat/index.php/Home/Wechat/definedItem
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000181s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000238s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000265s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000428s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000496s ]
+
+[ 2019-04-19T00:01:56+08:00 ] 140.207.54.79 /myWorkspace/WeChat/index.php/home/Wechat/index?signature=689d18ae81f774d768d2ef473e96d2da5c99c0f0&timestamp=1555603316&nonce=243395763&openid=o0_kT1aYsk3RIPEhLew5YzJbfI8U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000198s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000236s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000263s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 23 行.
+NOTIC: [8] Undefined variable: content /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 122 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000239s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000267s ]
+
+[ 2019-04-19T00:01:58+08:00 ] 140.207.54.80 /myWorkspace/WeChat/index.php/home/Wechat/index?signature=e0f1c26ef46a9577098c0362cb1c05600c1e5f94&timestamp=1555603318&nonce=2066437556&openid=o0_kT1aYsk3RIPEhLew5YzJbfI8U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000253s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000281s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 23 行.
+NOTIC: [8] Undefined variable: content /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 122 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000252s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000281s ]
+
+[ 2019-04-19T00:02:00+08:00 ] 140.207.54.80 /myWorkspace/WeChat/index.php/home/Wechat/index?signature=e8213f22edc0b8776f7d379deed50ece0a2aaef8&timestamp=1555603320&nonce=1831636132&openid=o0_kT1aYsk3RIPEhLew5YzJbfI8U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000245s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000314s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 23 行.
+NOTIC: [8] Undefined variable: content /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 122 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000300s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000334s ]
+
+[ 2019-04-19T00:02:00+08:00 ] 223.104.170.136 /myWorkspace/WeChat/index.php/Home/Wechat/shareWX
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000240s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000291s ]
+NOTIC: [8] Undefined index: jsapi_ticket_expire_time /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 155 行.
+NOTIC: [8] Undefined index: access_token_expire_time /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 138 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000082s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004228s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004310s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000102s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000123s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000313s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000337s ]
+
+[ 2019-04-19T00:02:04+08:00 ] 140.207.54.79 /myWorkspace/WeChat/index.php/home/Wechat/index?signature=30e55dc10ef65c055594e3a190c0df823f6595b4&timestamp=1555603324&nonce=987344289&openid=o0_kT1aYsk3RIPEhLew5YzJbfI8U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000237s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000243s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000273s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 23 行.
+NOTIC: [8] Undefined variable: content /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 122 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000248s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000279s ]
+
+[ 2019-04-19T00:02:06+08:00 ] 140.207.54.80 /myWorkspace/WeChat/index.php/home/Wechat/index?signature=415942a3355c8ee508d196c1acf6ff8f4a4c5021&timestamp=1555603325&nonce=1893622627&openid=o0_kT1aYsk3RIPEhLew5YzJbfI8U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000185s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000231s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000259s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 23 行.
+NOTIC: [8] Undefined variable: content /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 122 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000238s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000267s ]
+
+[ 2019-04-19T00:02:06+08:00 ] 223.104.170.136 /myWorkspace/WeChat/index.php/Home/Wechat/shareWX
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000182s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000247s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000273s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000060s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003210s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003236s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000083s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000100s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000259s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000281s ]
+
+[ 2019-04-19T00:02:10+08:00 ] 223.104.170.136 /myWorkspace/WeChat/index.php/Home/Wechat/definedItem
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000318s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000469s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000540s ]
+
+[ 2019-04-19T00:02:20+08:00 ] 140.207.54.79 /myWorkspace/WeChat/index.php/home/Wechat/index?signature=b0378f35e1a352518d8f5c2c761f62822142876e&timestamp=1555603340&nonce=527713143&openid=o0_kT1aYsk3RIPEhLew5YzJbfI8U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000246s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000338s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000377s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 23 行.
+NOTIC: [8] Undefined variable: content /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 122 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000326s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000364s ]
+
+[ 2019-04-19T00:02:21+08:00 ] 223.104.170.136 /myWorkspace/WeChat/index.php/Home/Wechat/shareWX
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000180s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000234s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000273s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000027s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000058s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003308s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003336s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000071s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000088s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000256s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000278s ]
+
+[ 2019-04-19T00:02:24+08:00 ] 140.207.54.79 /myWorkspace/WeChat/index.php/home/Wechat/index?signature=4222bd3f5ea1f9cddeb6897d5539a3af2bb840e5&timestamp=1555603344&nonce=2146411872&openid=o0_kT1aYsk3RIPEhLew5YzJbfI8U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000255s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000292s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 23 行.
+NOTIC: [8] Undefined variable: content /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 122 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000255s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000286s ]
+
+[ 2019-04-19T00:02:25+08:00 ] 140.207.54.80 /myWorkspace/WeChat/index.php/home/Wechat/index?signature=fef4277335bf851afa98ac18d009b4b72707ffea&timestamp=1555603345&nonce=1744192728&openid=o0_kT1aYsk3RIPEhLew5YzJbfI8U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000237s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000265s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 23 行.
+NOTIC: [8] Undefined variable: content /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 122 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000292s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000328s ]
+
+[ 2019-04-19T00:02:39+08:00 ] 140.207.54.80 /myWorkspace/WeChat/index.php/home/Wechat/index?signature=3ba879d250f95140906d2b1a93e0868c19c100cb&timestamp=1555603359&nonce=625793492&openid=o0_kT1aYsk3RIPEhLew5YzJbfI8U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000188s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000280s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 23 行.
+NOTIC: [8] Undefined variable: content /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 122 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000249s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000278s ]
+
+[ 2019-04-19T00:05:15+08:00 ] 140.207.54.80 /myWorkspace/WeChat/index.php/home/Wechat/index?signature=4a8c9c3829c7f02b392468f825be07fad13046f7&timestamp=1555603515&nonce=1774215838&openid=o0_kT1aYsk3RIPEhLew5YzJbfI8U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000196s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000294s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 23 行.
+NOTIC: [8] Undefined variable: content /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 122 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000308s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000344s ]
+
+[ 2019-04-19T00:05:21+08:00 ] 140.207.54.80 /myWorkspace/WeChat/index.php/home/Wechat/index?signature=7a88b768c062e6a4467678137c7eaffaa9a0d7b9&timestamp=1555603521&nonce=140324318&openid=o0_kT1aYsk3RIPEhLew5YzJbfI8U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000235s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000263s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 23 行.
+NOTIC: [8] Undefined variable: content /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 122 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000246s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000277s ]
+
+[ 2019-04-19T00:05:22+08:00 ] 223.104.170.136 /myWorkspace/WeChat/index.php/Home/Wechat/shareWX
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000184s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000277s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000057s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003220s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003248s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000072s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000089s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000243s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000264s ]
+
+[ 2019-04-19T00:05:29+08:00 ] 140.207.54.80 /myWorkspace/WeChat/index.php/home/Wechat/index?signature=9b9af3253eec7c27f71c0e479afdd449ebd616a4&timestamp=1555603529&nonce=1245451755&openid=o0_kT1aYsk3RIPEhLew5YzJbfI8U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000186s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000318s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000355s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 23 行.
+NOTIC: [8] Undefined variable: content /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 122 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000299s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000330s ]
+
+[ 2019-04-19T00:05:35+08:00 ] 140.207.54.79 /myWorkspace/WeChat/index.php/home/Wechat/index?signature=c139f57128c054f459b87f194e86c1e2e7b7956d&timestamp=1555603535&nonce=1689383873&openid=o0_kT1aYsk3RIPEhLew5YzJbfI8U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000190s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000308s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000341s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 23 行.
+NOTIC: [8] Undefined variable: content /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 122 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000251s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000280s ]
+
+[ 2019-04-19T00:06:55+08:00 ] 117.178.226.48 /myWorkspace/WeChat/index.php/Home/Wechat/definedItem
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000187s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000263s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000295s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000460s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000537s ]
+
+[ 2019-04-19T00:06:56+08:00 ] 117.178.226.48 /myWorkspace/WeChat/index.php/Home/Wechat/definedItem
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000196s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000284s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000419s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000487s ]
+
+[ 2019-04-19T00:06:56+08:00 ] 117.178.226.48 /myWorkspace/WeChat/index.php/Home/Wechat/definedItem
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000180s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000425s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000492s ]
+
+[ 2019-04-19T00:51:24+08:00 ] 104.42.198.99 /myWorkspace/WeChat/index.php/Home/Wechat/definedItem
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000342s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000380s ]
+NOTIC: [8] Undefined index: access_token_expire_time /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 138 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000421s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000509s ]
+
+[ 2019-04-19T14:52:06+08:00 ] 140.207.54.80 /myWorkspace/WeChat/index.php/home/Wechat/index?signature=6b5423793347ef1a8e2bed2c621420f61aed92c7&echostr=7879946061651737470&timestamp=1555656726&nonce=1851202835
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000318s ]
+
+[ 2019-04-19T14:53:21+08:00 ] 140.207.54.80 /myWorkspace/WeChat/index.php/home/Wechat/index?signature=e91883f70529473b12dd0e8c3deeb07ca027d6da&echostr=882832973626179065&timestamp=1555656801&nonce=1256039203
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000183s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000330s ]
+
+[ 2019-04-19T15:15:47+08:00 ] 140.207.54.79 /myWorkspace/WeChat/index.php/home/Wechat/index?signature=c013a855ec945192dccfe1781dab5d23441280ec&timestamp=1555658147&nonce=1589150583&openid=o0_kT1aYsk3RIPEhLew5YzJbfI8U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000187s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000241s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000287s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 23 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000245s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000297s ]
+
+[ 2019-04-19T15:15:48+08:00 ] 140.207.54.79 /myWorkspace/WeChat/index.php/home/Wechat/index?signature=a849f2325dd50faee54fe65ad7af2a3278485d7c&timestamp=1555658148&nonce=1428870039&openid=o0_kT1aYsk3RIPEhLew5YzJbfI8U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000185s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000236s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000263s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 23 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000241s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000273s ]
+
+[ 2019-04-19T15:15:50+08:00 ] 140.207.54.79 /myWorkspace/WeChat/index.php/home/Wechat/index?signature=5dcb5d6aabf2fef89fdce86bd9e0b129500b1ce0&timestamp=1555658150&nonce=16003913&openid=o0_kT1aYsk3RIPEhLew5YzJbfI8U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000187s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000234s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000260s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 23 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000239s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000271s ]
+
+[ 2019-04-19T15:15:51+08:00 ] 140.207.54.79 /myWorkspace/WeChat/index.php/home/Wechat/index?signature=057118b67b5514fdfaea5d5dc13c2d0cb982f45d&timestamp=1555658151&nonce=1342913467&openid=o0_kT1aYsk3RIPEhLew5YzJbfI8U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000181s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000238s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000267s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 23 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000239s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000271s ]
+
+[ 2019-04-19T15:15:52+08:00 ] 140.207.54.79 /myWorkspace/WeChat/index.php/home/Wechat/index?signature=1a213ec99d08ea42bae8b748e45027f575840113&timestamp=1555658152&nonce=889415632&openid=o0_kT1aYsk3RIPEhLew5YzJbfI8U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000305s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 23 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000251s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000286s ]
+
+[ 2019-04-19T15:15:57+08:00 ] 140.207.54.80 /myWorkspace/WeChat/index.php/home/Wechat/index?signature=dd7cac9cd8bdbbdd2918afb9923c68fed50f05f5&timestamp=1555658157&nonce=968662032&openid=o0_kT1aYsk3RIPEhLew5YzJbfI8U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000186s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000254s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000282s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 23 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000246s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000301s ]
+
+[ 2019-04-19T15:21:38+08:00 ] 202.101.209.66 /myWorkspace/WeChat/index.php/Home/Wechat/shareWX
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000297s ]
+NOTIC: [8] Undefined index: jsapi_ticket_expire_time /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 157 行.
+NOTIC: [8] Undefined index: access_token_expire_time /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 140 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000073s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003390s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003447s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000074s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000313s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000342s ]
+
+[ 2019-04-19T15:22:06+08:00 ] 202.101.209.66 /myWorkspace/WeChat/index.php/Home/Wechat/getWxAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000243s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000270s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000259s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000292s ]
+
+[ 2019-04-19T15:22:11+08:00 ] 202.101.209.66 /myWorkspace/WeChat/index.php/Home/Wechat/getWxAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000292s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000255s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000285s ]
+
+[ 2019-04-19T15:22:46+08:00 ] 202.101.209.66 /myWorkspace/WeChat/index.php/Home/Wechat/getWxAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000182s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000238s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000264s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000256s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000288s ]
+
+[ 2019-04-19T15:25:09+08:00 ] 202.101.209.66 /myWorkspace/WeChat/index.php/Home/Wechat/reponseMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000188s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000240s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000267s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 43 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 49 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 62 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 78 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 105 行.
+NOTIC: [8] Undefined variable: content /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 123 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Model/WechatModel.class.php 第 45 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Model/WechatModel.class.php 第 46 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000263s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000288s ]
+
+[ 2019-04-19T15:25:46+08:00 ] 140.207.54.80 /myWorkspace/WeChat/index.php/home/Wechat/index?signature=6a706bdbd2b7f0fc83f01b6068190d7ed320896b&timestamp=1555658746&nonce=1310798993&openid=o0_kT1aYsk3RIPEhLew5YzJbfI8U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000236s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000262s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 23 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000242s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000275s ]
+
+[ 2019-04-19T15:27:09+08:00 ] 202.101.209.66 /myWorkspace/WeChat/index.php/Home/Wechat/reponseMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000187s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000261s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000289s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 43 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 49 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 62 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 78 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 105 行.
+NOTIC: [8] Undefined variable: content /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 123 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Model/WechatModel.class.php 第 45 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Model/WechatModel.class.php 第 46 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000267s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000293s ]
+
+[ 2019-04-19T15:27:10+08:00 ] 202.101.209.66 /myWorkspace/WeChat/index.php/Home/Wechat/reponseMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000179s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000233s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000259s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 43 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 49 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 62 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 78 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 105 行.
+NOTIC: [8] Undefined variable: content /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 123 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Model/WechatModel.class.php 第 45 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Model/WechatModel.class.php 第 46 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000236s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000260s ]
+
+[ 2019-04-19T15:27:14+08:00 ] 140.207.54.79 /myWorkspace/WeChat/index.php/home/Wechat/index?signature=e88da213a614affd810fea61c5583fe4d62d08f5&timestamp=1555658834&nonce=1364418896&openid=o0_kT1aYsk3RIPEhLew5YzJbfI8U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000314s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 23 行.
+NOTIC: [8] Undefined variable: content /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 123 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000267s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000296s ]
+
+[ 2019-04-19T15:27:17+08:00 ] 202.101.209.66 /myWorkspace/WeChat/index.php/Home/Wechat/reponseMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000319s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000352s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 43 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 49 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 62 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 78 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 105 行.
+NOTIC: [8] Undefined variable: content /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 123 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Model/WechatModel.class.php 第 45 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Model/WechatModel.class.php 第 46 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000316s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000345s ]
+
+[ 2019-04-19T15:27:18+08:00 ] 202.101.209.66 /myWorkspace/WeChat/index.php/Home/Wechat/reponseMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000200s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000234s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000260s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 43 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 49 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 62 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 78 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 105 行.
+NOTIC: [8] Undefined variable: content /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 123 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Model/WechatModel.class.php 第 45 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Model/WechatModel.class.php 第 46 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000238s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000264s ]
+
+[ 2019-04-19T15:27:20+08:00 ] 140.207.54.79 /myWorkspace/WeChat/index.php/home/Wechat/index?signature=900bc7b0c0368e6f4c161ec89f1ab82e7a60fcb1&timestamp=1555658840&nonce=117871184&openid=o0_kT1aYsk3RIPEhLew5YzJbfI8U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000239s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000267s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 23 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000247s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000280s ]
+
+[ 2019-04-19T15:27:21+08:00 ] 202.101.209.66 /myWorkspace/WeChat/index.php/Home/Wechat/reponseMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000199s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 43 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 49 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 62 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 78 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 105 行.
+NOTIC: [8] Undefined variable: content /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 123 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Model/WechatModel.class.php 第 45 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Model/WechatModel.class.php 第 46 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000242s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000267s ]
+
+[ 2019-04-19T15:27:22+08:00 ] 202.101.209.66 /myWorkspace/WeChat/index.php/Home/Wechat/reponseMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000180s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000263s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000290s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 43 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 49 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 62 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 78 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 105 行.
+NOTIC: [8] Undefined variable: content /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 123 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Model/WechatModel.class.php 第 45 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Model/WechatModel.class.php 第 46 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000303s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000338s ]
+
+[ 2019-04-19T15:27:22+08:00 ] 202.101.209.66 /myWorkspace/WeChat/index.php/Home/Wechat/reponseMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000264s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000293s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 43 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 49 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 62 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 78 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 105 行.
+NOTIC: [8] Undefined variable: content /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 123 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Model/WechatModel.class.php 第 45 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Model/WechatModel.class.php 第 46 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000260s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000286s ]
+
+[ 2019-04-19T15:27:22+08:00 ] 202.101.209.66 /myWorkspace/WeChat/index.php/Home/Wechat/reponseMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000193s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000329s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 43 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 49 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 62 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 78 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 105 行.
+NOTIC: [8] Undefined variable: content /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 123 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Model/WechatModel.class.php 第 45 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Model/WechatModel.class.php 第 46 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000260s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000287s ]
+
+[ 2019-04-19T15:27:22+08:00 ] 202.101.209.66 /myWorkspace/WeChat/index.php/Home/Wechat/reponseMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000186s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000255s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000283s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 43 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 49 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 62 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 78 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 105 行.
+NOTIC: [8] Undefined variable: content /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 123 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Model/WechatModel.class.php 第 45 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Model/WechatModel.class.php 第 46 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000229s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000253s ]
+
+[ 2019-04-19T15:27:23+08:00 ] 202.101.209.66 /myWorkspace/WeChat/index.php/Home/Wechat/reponseMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000181s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000254s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000282s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 43 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 49 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 62 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 78 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 105 行.
+NOTIC: [8] Undefined variable: content /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 123 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Model/WechatModel.class.php 第 45 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Model/WechatModel.class.php 第 46 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000234s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000258s ]
+
+[ 2019-04-19T15:27:23+08:00 ] 202.101.209.66 /myWorkspace/WeChat/index.php/Home/Wechat/reponseMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000181s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000235s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000261s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 43 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 49 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 62 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 78 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 105 行.
+NOTIC: [8] Undefined variable: content /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 123 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Model/WechatModel.class.php 第 45 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Model/WechatModel.class.php 第 46 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000231s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000255s ]
+
+[ 2019-04-19T15:27:23+08:00 ] 202.101.209.66 /myWorkspace/WeChat/index.php/Home/Wechat/reponseMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000202s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000234s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000259s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 43 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 49 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 62 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 78 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 105 行.
+NOTIC: [8] Undefined variable: content /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 123 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Model/WechatModel.class.php 第 45 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Model/WechatModel.class.php 第 46 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000263s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000294s ]
+
+[ 2019-04-19T15:27:23+08:00 ] 202.101.209.66 /myWorkspace/WeChat/index.php/Home/Wechat/reponseMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000180s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000253s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000282s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 43 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 49 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 62 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 78 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 105 行.
+NOTIC: [8] Undefined variable: content /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 123 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Model/WechatModel.class.php 第 45 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Model/WechatModel.class.php 第 46 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000255s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000280s ]
+
+[ 2019-04-19T15:27:23+08:00 ] 202.101.209.66 /myWorkspace/WeChat/index.php/Home/Wechat/reponseMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000182s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000259s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000287s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 43 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 49 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 62 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 78 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 105 行.
+NOTIC: [8] Undefined variable: content /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 123 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Model/WechatModel.class.php 第 45 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Model/WechatModel.class.php 第 46 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000257s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000283s ]
+
+[ 2019-04-19T15:27:23+08:00 ] 202.101.209.66 /myWorkspace/WeChat/index.php/Home/Wechat/reponseMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000200s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000262s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000289s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 43 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 49 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 62 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 78 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 105 行.
+NOTIC: [8] Undefined variable: content /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 123 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Model/WechatModel.class.php 第 45 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Model/WechatModel.class.php 第 46 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000262s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000289s ]
+
+[ 2019-04-19T15:27:24+08:00 ] 202.101.209.66 /myWorkspace/WeChat/index.php/Home/Wechat/reponseMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000184s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000238s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000266s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 43 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 49 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 62 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 78 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 105 行.
+NOTIC: [8] Undefined variable: content /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 123 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Model/WechatModel.class.php 第 45 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Model/WechatModel.class.php 第 46 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000238s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000264s ]
+
+[ 2019-04-19T15:27:24+08:00 ] 202.101.209.66 /myWorkspace/WeChat/index.php/Home/Wechat/reponseMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000243s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000270s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 43 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 49 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 62 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 78 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 105 行.
+NOTIC: [8] Undefined variable: content /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 123 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Model/WechatModel.class.php 第 45 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Model/WechatModel.class.php 第 46 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000257s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000287s ]
+
+[ 2019-04-19T15:27:24+08:00 ] 202.101.209.66 /myWorkspace/WeChat/index.php/Home/Wechat/reponseMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000188s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000275s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 43 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 49 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 62 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 78 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 105 行.
+NOTIC: [8] Undefined variable: content /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 123 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Model/WechatModel.class.php 第 45 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Model/WechatModel.class.php 第 46 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000238s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000263s ]
+
+[ 2019-04-19T15:27:24+08:00 ] 202.101.209.66 /myWorkspace/WeChat/index.php/Home/Wechat/reponseMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000236s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000262s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 43 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 49 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 62 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 78 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 105 行.
+NOTIC: [8] Undefined variable: content /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 123 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Model/WechatModel.class.php 第 45 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Model/WechatModel.class.php 第 46 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000237s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000262s ]
+
+[ 2019-04-19T15:29:42+08:00 ] 202.101.209.66 /myWorkspace/WeChat/index.php/Home/Wechat/reponseMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000202s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000268s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000296s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 43 行.
+
+[ 2019-04-19T15:30:16+08:00 ] 202.101.209.66 /myWorkspace/WeChat/index.php/Home/Wechat/reponseMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000256s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000289s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 43 行.
+NOTIC: [8] Use of undefined constant console - assumed 'console' /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 45 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 48 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 61 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 77 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 104 行.
+NOTIC: [8] Undefined variable: content /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 122 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Model/WechatModel.class.php 第 45 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Model/WechatModel.class.php 第 46 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000238s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000264s ]
+
+[ 2019-04-19T15:30:27+08:00 ] 140.207.54.80 /myWorkspace/WeChat/index.php/home/Wechat/index?signature=89e534ba256fe638373dbc60c8dee4f880f1577f&timestamp=1555659027&nonce=148692760&openid=o0_kT1aYsk3RIPEhLew5YzJbfI8U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000306s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant console - assumed 'console' /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 45 行.
+NOTIC: [2] log() expects parameter 1 to be double, string given /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 45 行.
+NOTIC: [8] Undefined variable: content /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 122 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000264s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000295s ]
+
+[ 2019-04-19T15:30:36+08:00 ] 140.207.54.79 /myWorkspace/WeChat/index.php/home/Wechat/index?signature=929c1a3b12c16736d3cbb4f3402873b2982245f7&timestamp=1555659036&nonce=1324166494&openid=o0_kT1aYsk3RIPEhLew5YzJbfI8U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000314s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000359s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant console - assumed 'console' /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 45 行.
+NOTIC: [2] log() expects parameter 1 to be double, string given /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 45 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000265s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000299s ]
+
+[ 2019-04-19T15:32:59+08:00 ] 140.207.54.80 /myWorkspace/WeChat/index.php/home/Wechat/index?signature=5facf8cf2a8a3f2763e3f04f86e769a3f6ac2625&timestamp=1555659179&nonce=511402312&openid=o0_kT1aYsk3RIPEhLew5YzJbfI8U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000238s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000266s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant console - assumed 'console' /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 45 行.
+NOTIC: [2] log() expects parameter 1 to be double, string given /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 45 行.
+NOTIC: [8] Use of undefined constant console - assumed 'console' /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [2] log() expects parameter 1 to be double, object given /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 47 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000249s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000283s ]
+
+[ 2019-04-19T15:33:01+08:00 ] 202.101.209.66 /myWorkspace/WeChat/index.php/Home/Wechat/reponseMsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000271s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000301s ]
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 43 行.
+NOTIC: [8] Use of undefined constant console - assumed 'console' /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 45 行.
+NOTIC: [8] Use of undefined constant console - assumed 'console' /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 49 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 62 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 78 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 105 行.
+NOTIC: [8] Undefined variable: content /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 123 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Model/WechatModel.class.php 第 45 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/myWorkspace/WeChat/Application/Home/Model/WechatModel.class.php 第 46 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000321s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000354s ]
+
+[ 2019-04-19T15:40:26+08:00 ] 140.207.54.79 /myWorkspace/WeChat/index.php/home/Wechat/index?signature=52a135a8a2c97ad91e8da5087ee25152a6969b31&timestamp=1555659626&nonce=268812568&openid=o0_kT1aYsk3RIPEhLew5YzJbfI8U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000182s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000238s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000266s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant console - assumed 'console' /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 45 行.
+NOTIC: [2] log() expects parameter 1 to be double, string given /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 45 行.
+NOTIC: [8] Use of undefined constant console - assumed 'console' /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [2] log() expects parameter 1 to be double, object given /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [8] Undefined variable: content /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 123 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000239s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000266s ]
+
+[ 2019-04-19T15:40:30+08:00 ] 140.207.54.80 /myWorkspace/WeChat/index.php/home/Wechat/index?signature=ed0184e5208a8af8a9c9af1e2b9b22f51765367f&timestamp=1555659629&nonce=667090384&openid=o0_kT1aYsk3RIPEhLew5YzJbfI8U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000273s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant console - assumed 'console' /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 45 行.
+NOTIC: [2] log() expects parameter 1 to be double, string given /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 45 行.
+NOTIC: [8] Use of undefined constant console - assumed 'console' /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [2] log() expects parameter 1 to be double, object given /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [8] Undefined variable: content /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 123 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000250s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000283s ]
+
+[ 2019-04-19T15:40:30+08:00 ] 223.104.170.47 /myWorkspace/WeChat/index.php/Home/Wechat/shareWX
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000234s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000259s ]
+NOTIC: [8] Undefined index: jsapi_ticket_expire_time /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 157 行.
+NOTIC: [8] Undefined index: access_token_expire_time /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 140 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000033s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000073s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003507s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003565s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000076s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000095s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000260s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000283s ]
+
+[ 2019-04-19T15:40:36+08:00 ] 140.207.54.80 /myWorkspace/WeChat/index.php/home/Wechat/index?signature=4389d3cfdea3b7ac1eaf0caadc7d84f77eb8ffb8&timestamp=1555659636&nonce=1775237180&openid=o0_kT1aYsk3RIPEhLew5YzJbfI8U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000235s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000262s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant console - assumed 'console' /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 45 行.
+NOTIC: [2] log() expects parameter 1 to be double, string given /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 45 行.
+NOTIC: [8] Use of undefined constant console - assumed 'console' /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [2] log() expects parameter 1 to be double, object given /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [8] Undefined variable: content /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 123 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000256s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000286s ]
+
+[ 2019-04-19T15:40:37+08:00 ] 140.207.54.80 /myWorkspace/WeChat/index.php/home/Wechat/index?signature=9b3e6e8c69fcba5c93a189cfb97ae0d5e9b3574d&timestamp=1555659637&nonce=1582274885&openid=o0_kT1aYsk3RIPEhLew5YzJbfI8U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000237s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000264s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant console - assumed 'console' /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 45 行.
+NOTIC: [2] log() expects parameter 1 to be double, string given /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 45 行.
+NOTIC: [8] Use of undefined constant console - assumed 'console' /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [2] log() expects parameter 1 to be double, object given /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [8] Undefined variable: content /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 123 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000237s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000264s ]
+
+[ 2019-04-19T15:40:37+08:00 ] 223.104.170.47 /myWorkspace/WeChat/index.php/Home/Wechat/shareWX
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000299s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000067s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003834s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003865s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000072s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000296s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000322s ]
+
+[ 2019-04-19T15:40:40+08:00 ] 140.207.54.80 /myWorkspace/WeChat/index.php/home/Wechat/index?signature=ea0dfbcf5cadc0d59703d2d30574bc21f1e822a6&timestamp=1555659640&nonce=1136794757&openid=o0_kT1aYsk3RIPEhLew5YzJbfI8U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000236s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000263s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant console - assumed 'console' /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 45 行.
+NOTIC: [2] log() expects parameter 1 to be double, string given /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 45 行.
+NOTIC: [8] Use of undefined constant console - assumed 'console' /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [2] log() expects parameter 1 to be double, object given /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [8] Undefined variable: content /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 123 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000248s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000278s ]
+
+[ 2019-04-19T15:41:39+08:00 ] 140.207.54.79 /myWorkspace/WeChat/index.php/home/Wechat/index?signature=5895a8ca1d5db31ccaca0c8fdc30c6949d440d87&timestamp=1555659699&nonce=537435036&openid=o0_kT1aYsk3RIPEhLew5YzJbfI8U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000187s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000263s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000294s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant console - assumed 'console' /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 45 行.
+NOTIC: [2] log() expects parameter 1 to be double, string given /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 45 行.
+NOTIC: [8] Use of undefined constant console - assumed 'console' /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [2] log() expects parameter 1 to be double, object given /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [8] Undefined variable: content /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 123 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000265s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000293s ]
+
+[ 2019-04-19T15:41:39+08:00 ] 223.104.170.47 /myWorkspace/WeChat/index.php/Home/Wechat/shareWX
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000184s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000264s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000292s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000061s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003305s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003348s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000083s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000101s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000281s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000310s ]
+
+[ 2019-04-19T15:42:00+08:00 ] 140.207.54.80 /myWorkspace/WeChat/index.php/home/Wechat/index?signature=e490a8ba8075c48a5b5f561ef2bf83b3adbb9be3&timestamp=1555659720&nonce=1316762247&openid=o0_kT1aYsk3RIPEhLew5YzJbfI8U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000294s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant console - assumed 'console' /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 45 行.
+NOTIC: [2] log() expects parameter 1 to be double, string given /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 45 行.
+NOTIC: [8] Use of undefined constant console - assumed 'console' /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [2] log() expects parameter 1 to be double, object given /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [8] Undefined variable: content /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 123 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000302s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000334s ]
+
+[ 2019-04-19T15:42:00+08:00 ] 223.104.170.47 /myWorkspace/WeChat/index.php/Home/Wechat/shareWX
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000183s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000235s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000261s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000028s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000059s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003234s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003262s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000068s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000087s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000288s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000310s ]
+
+[ 2019-04-19T15:42:28+08:00 ] 202.101.209.66 /myWorkspace/WeChat/index.php/Home/Wechat/definedItem
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000186s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000295s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000428s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000495s ]
+
+[ 2019-04-19T15:43:04+08:00 ] 140.207.54.80 /myWorkspace/WeChat/index.php/home/Wechat/index?signature=8603b903f74ffcb2c6984ad37616fed76f5a03c8&timestamp=1555659784&nonce=405431162&openid=o0_kT1aYsk3RIPEhLew5YzJbfI8U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000183s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000313s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant console - assumed 'console' /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 45 行.
+NOTIC: [2] log() expects parameter 1 to be double, string given /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 45 行.
+NOTIC: [8] Use of undefined constant console - assumed 'console' /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [2] log() expects parameter 1 to be double, object given /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [8] Undefined variable: content /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 123 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000345s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000386s ]
+
+[ 2019-04-19T15:43:06+08:00 ] 140.207.54.80 /myWorkspace/WeChat/index.php/home/Wechat/index?signature=8d3ec7d55d05ac66b27caa2152ecb377a4eefbb4&timestamp=1555659786&nonce=313247583&openid=o0_kT1aYsk3RIPEhLew5YzJbfI8U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000259s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000294s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant console - assumed 'console' /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 45 行.
+NOTIC: [2] log() expects parameter 1 to be double, string given /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 45 行.
+NOTIC: [8] Use of undefined constant console - assumed 'console' /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [2] log() expects parameter 1 to be double, object given /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [8] Undefined variable: content /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 123 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000340s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000376s ]
+
+[ 2019-04-19T15:43:06+08:00 ] 223.104.170.47 /myWorkspace/WeChat/index.php/Home/Wechat/shareWX
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000304s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000079s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003453s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003484s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000074s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000287s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000312s ]
+
+[ 2019-04-19T15:49:34+08:00 ] 140.207.54.79 /myWorkspace/WeChat/index.php/home/Wechat/index?signature=d8903368cead653c988eaa526e38c7c9cdb39eb1&timestamp=1555660173&nonce=1343756053&openid=o0_kT1aYsk3RIPEhLew5YzJbfI8U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000324s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant console - assumed 'console' /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 45 行.
+NOTIC: [2] log() expects parameter 1 to be double, string given /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 45 行.
+NOTIC: [8] Use of undefined constant console - assumed 'console' /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [2] log() expects parameter 1 to be double, object given /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [8] Undefined variable: content /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 123 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000352s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000383s ]
+
+[ 2019-04-19T15:49:34+08:00 ] 223.104.170.47 /myWorkspace/WeChat/index.php/Home/Wechat/shareWX
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000193s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000242s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000277s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000063s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003345s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003382s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000090s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000117s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000300s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000326s ]
+
+[ 2019-04-19T15:49:54+08:00 ] 140.207.54.79 /myWorkspace/WeChat/index.php/home/Wechat/index?signature=2e5d583b900370a7a2dae93901cc5f0b53c683e8&timestamp=1555660194&nonce=1639276742&openid=o0_kT1aYsk3RIPEhLew5YzJbfI8U
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000185s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000248s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000291s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant console - assumed 'console' /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 45 行.
+NOTIC: [2] log() expects parameter 1 to be double, string given /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 45 行.
+NOTIC: [8] Use of undefined constant console - assumed 'console' /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [2] log() expects parameter 1 to be double, object given /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [8] Undefined variable: content /var/www/html/myWorkspace/WeChat/Application/Home/Controller/WechatController.class.php 第 123 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000362s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000392s ]
+
+[ 2019-04-19T15:49:54+08:00 ] 223.104.170.47 /myWorkspace/WeChat/index.php/Home/Wechat/shareWX
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000190s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000307s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000339s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000029s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000059s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003665s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003701s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000071s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000089s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000276s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000311s ]
+
